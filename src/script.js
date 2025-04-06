@@ -7,6 +7,7 @@ function updateTime() {
 
 window.onload = function() {
     draggable(document.getElementById('window'));
+    draggable(document.getElementById('window2'));
 }
 
 function draggable(el) {

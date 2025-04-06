@@ -11,33 +11,40 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Hi, I'm youko" />
     <meta property="og:description" content="I make and break software and hardware." />
-    <meta property="og:url" content="https://youko.hackclub.app/" />
+    <meta property="og:url" content="https://youko.dev/" />
 
     <meta name="twitter:title" content="Hi, I'm youko" />
     <meta name="twitter:description" content="I make and break software and hardware." />
-    <meta name="twitter:image" content="https://youko.hackclub.app/" />
+    <meta name="twitter:image" content="https://youko.dev/" />
 
     <title>youkononame</title>
     <link rel="stylesheet" href="output.css" />
   </head>
   <body>
-    <div class="grid h-screen place-items-center">
-      <div class="mockup-code mx-auto absolute" id="window" style="-webkit-user-select: none; user-select: none;">
+    <div class="grid h-screen grid-cols-4 place-items-center gap-10">
+      <div class="col-span-1"></div>
+      <div class="mockup-code" id="window" style="-webkit-user-select: none; user-select: none;">
         <pre data-prefix="$"><code>whoami</code></pre>
         <pre data-prefix=">" class="text-success"><code>youkononame</code></pre>
         <pre data-prefix="$"><code>cat about.txt</code></pre>
         <pre data-prefix=">" class="text-success"><code>Hi, I'm youko. I'm <span id="age_span"></span> years old.</code></pre>
         <pre data-prefix=">" class="text-success"><code>I make <i>and break</i> software/hardware.</code></pre>
-        <pre data-prefix="$"><code>cat featured_project.txt</code></pre>
-        <pre data-prefix=">" class="text-success"><code><a class="link-primary" href="https://github.com/youkononame/bible-bot" target="_blank" rel="noreferrer">bible-bot</a>, a Discord bot for bible verses</code></pre>
         <pre data-prefix="$"><code>cat contact.txt</code></pre>
-        <pre data-prefix=">" class="text-success"><code><span class="text-primary">youko.14</span> on Signal</code></pre>
-        <pre data-prefix=">" class="text-success"><code><a href="mailto:noname@youko.dev" class="link-primary">noname@youko.dev</a> (email)</code></pre>
+        <pre data-prefix=">" class="text-success"><code><a href="https://signal.me/#eu/ZJjRpqm2lLRZ-IJCHY1PeK1jyvHgKPj6iJqh3UAmRurBKDATbk1MAKiDeuiMWVCS" target="_blank" rel="noreferrer" class="link-primary">youko.14</a> on Signal</code></pre>
+        <pre data-prefix=">" class="text-success"><code><a href="mailto:noname@youko.dev" target="_blank" rel="norferrer" class="link-primary">noname@youko.dev</a> (email)</code></pre>
+        <pre data-prefix="$"><code>echo $TIP1</code></pre>
+        <pre data-prefix=">" class="text-success"><code class="text-secondary">psst - these windows are draggable!</code></pre>
+      </div>
+      <div class="mockup-code" id="window2" style="-webkit-user-select: none; user-select: none;">
+        <pre data-prefix="$"><code>cat projects.txt</code></pre>
+        <pre data-prefix=">" class="text-success"><code><a href="https://github.com/youkononame/bible-bot" target="_blank" rel="noreferrer" class="link-primary">bible-bot</a>, a Discord bot for bible verses</code></pre>
+        <pre data-prefix=">" class="text-success"><code><a href="https://github.com/youkononame/terminalcraft/tree/main/submissions/bicycle" target="_blank" rel="noreferrer" class="link-primary">bicycle</a>, a CLI for playing with cards</code></pre>
+        <pre data-prefix=">" class="text-success"><code><a href="https://github.com/youkononame/tiny-gamba" target="_blank" rel="noreferrer" class="link-primary">tiny-gamba</a>, a collection of games of chance</code></pre>
+        <pre data-prefix=">" class="text-success"><code><a href="https://github.com/youkononame/sprig/blob/main/games/Catch-N-Dodge.js" target="_blank" rel="noreferrer" class="link-primary">Catch-N-Dodge</a>, a game for the <a href="https://sprig.hackclub.com" target="_blank" rel="noreferrer" class="link-primary">Sprig</a></code></pre>
         <pre data-prefix="$"><code>git remote get-url origin</code></pre>
         <pre data-prefix=">" class="text-success"><code><a class="link-primary" href="https://github.com/youkononame/personal-website" target="_blank" rel="noreferrer">https://github.com/youkononame/personal-website</a></code></pre>
-        <pre data-prefix="$"><code>echo $TIP1</code></pre>
-        <pre data-prefix=">" class="text-success"><code class="text-secondary">psst - this window is draggable!</code></pre>
       </div>
+      <div class="col-span-1"></div>
     </div>
 
     <script src="script.js"></script>

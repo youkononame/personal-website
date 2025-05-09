@@ -35,6 +35,4 @@ updateTime();
 
 if (window.matchMedia("(max-width: 600px)").matches) {
     window.location.replace("mobile.html");
-} else {
-    window.location.replace("index.html");
 }

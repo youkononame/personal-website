@@ -2,6 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/License-GNU_AGPL--3.0-yellow)
 
 > My personal website
+>
 > Based on the [Hack Club Theme Starter](https://github.com/hackclub/theme-starter)
 
 # License

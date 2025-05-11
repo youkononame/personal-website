@@ -1,0 +1,56 @@
+{
+    "projects": [
+        {
+            "name": "Ekrimania",
+            "description": "A Minecraft mod for adding additional TNT variants and items",
+            "buttons": {
+                "Download": "https://modrinth.com/mod/ekrimania",
+                "Source Code": "https://github.com/youkononame/ekrimania"
+            }
+        },
+        {
+            "name": "AstleyChat",
+            "description": "The premier rickroll-based messaging service",
+            "buttons": {
+                "Source Code": "https://github.com/TheMarkoLoncar/Scrapyard-Project"
+            }
+        },
+        {
+            "name": "Bible Bot",
+            "description": "A Discord bot for Bible verses",
+            "buttons": {
+                "Add to Server": "https://discord.com/oauth2/authorize?client_id=1355640740549759127",
+                "Source Code": "https://github.com/youkononame/bible-bot"
+            }
+        },
+        {
+            "name": "Bicycle",
+            "description": "A CLI tool for playing with cards",
+            "buttons": {
+                "Source Code": "https://github.com/youkononame/terminalcraft/tree/main/submissions/bicycle"
+            }
+        },
+        {
+            "name": "Tiny Gamba",
+            "description": "A collection of simple games of chance",
+            "buttons": {
+                "Source Code": "https://github.com/youkononame/tiny-gamba"
+            }
+        },
+        {
+            "name": "Catch-N-Dodge",
+            "description": "A game for the Sprig about catching fruits",
+            "buttons": {
+                "Play": "https://sprig.hackclub.com/gallery/play/Catch-N-Dodge",
+                "Source Code": "https://github.com/youkononame/sprig/blob/main/games/Catch-N-Dodge.js"
+            }
+        },
+        {
+            "name": "This Website",
+            "description": "... pretty self explanatory",
+            "buttons": {
+                "Source Code": "https://github.com/youkononame/personal-website"
+            }
+        }
+    ]
+}

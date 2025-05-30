@@ -31,6 +31,13 @@
             }
         },
         {
+            "name": "Blackbox Synth",
+            "description": "A synth written for Hack Club's Black Box",
+            "buttons": {
+                "Play": "https://blackbox.hackclub.com/editor/?code=7d682a"
+            }
+        },
+        {
             "name": "Tiny Gamba",
             "description": "A collection of simple games of chance",
             "buttons": {

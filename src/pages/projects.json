@@ -1,6 +1,13 @@
 {
     "projects": [
         {
+            "name": "Sparkade",
+            "description": "A dead-simple web games site",
+            "buttons": {
+                "Link": "https://sparkade.net"
+            }
+        },
+        {
             "name": "Ekrimania",
             "description": "A Minecraft mod for adding additional TNT variants and items",
             "buttons": {

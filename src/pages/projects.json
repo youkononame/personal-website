@@ -4,7 +4,8 @@
             "name": "Sparkade",
             "description": "A dead-simple web games site",
             "buttons": {
-                "Link": "https://sparkade.net"
+                "Link": "https://sparkade.net",
+                "Source Code": "https://github.com/youkononame/sparkade"
             }
         },
         {

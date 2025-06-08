@@ -9,6 +9,13 @@
             }
         },
         {
+            "name": "Ekonn",
+            "description": "A general-purpose Discord bot with a focus on economy features",
+            "buttons": {
+                "Source Code": "https://github.com/youkononame/ekonn"
+            }
+        }.
+        {
             "name": "Ekrimania",
             "description": "A Minecraft mod for adding additional TNT variants and items",
             "buttons": {
